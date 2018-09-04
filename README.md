@@ -1,3 +1,5 @@
+# This package is now maintaned at the [rdfjs organisation](https://github.com/rdfjs/serializer-jsonld).
+
 # rdf-serializer-jsonld
 
 [![Build Status](https://travis-ci.org/rdf-ext/rdf-serializer-jsonld.svg?branch=master)](https://travis-ci.org/rdf-ext/rdf-serializer-jsonld)
